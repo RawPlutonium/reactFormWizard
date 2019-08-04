@@ -4,7 +4,7 @@ import MasterForm from './components/master-form';
 function App() {
   return (
     <div>
-      <MasterForm/>   
+      <MasterForm/>
     </div>
   );
 }
